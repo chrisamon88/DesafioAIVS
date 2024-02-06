@@ -1,0 +1,19 @@
+A silhouette of a woman sitting on a swing
+
+
+Código Json
+
+{
+  "apim-request-id": "b7a2acd0-78a7-4870-b4dd-cd6830cc9c63",
+  "content-length": "169",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a silhouette of a woman sitting on a swing",
+    "confidence": 0.8964090347290039
+  },
+  "metadata": {
+    "width": 500,
+    "height": 375
+  }
+}

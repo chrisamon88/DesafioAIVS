@@ -1,0 +1,22 @@
+
+A dock over a lake at night
+
+
+Código Json
+
+
+
+{
+  "apim-request-id": "c7c00f22-7a0e-4307-854d-144572adc027",
+  "content-length": "156",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a dock over a lake at night",
+    "confidence": 0.7059768438339233
+  },
+  "metadata": {
+    "width": 5306,
+    "height": 3770
+  }
+}
